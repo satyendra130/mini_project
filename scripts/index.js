@@ -59,7 +59,8 @@ function initApp() {
 
     quiz = new Quiz(
         "Simple JavaScript Quiz",
-        `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.`,
+        ``This is simple javascript quiz consist of seven simple questions and the time given is only 70 secons.
+        So, everyone needs to complete this quiz within time. You can see your result after submission .`,
         70,
         questions);
 
